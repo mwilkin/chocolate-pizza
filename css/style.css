@@ -1,3 +1,101 @@
-h2 {
-  font-size: 125%;
+* {
+  padding: 30px;
+}
+
+body {
+  padding: 30px;
+  margin: 20px;
+} 
+
+header{
+  margin: 10px;
+  padding: 15px;
+  border-bottom: 10px solid blue;
+}
+
+nav img{
+  float: right;
+  margin: 1px;
+}
+
+
+#largelogo {
+  float: left;
+  margin-left: 30px;
+}
+
+
+
+#delicious {
+  font-family: cursive;
+  font-size: 150%;
+  margin-left: 10px;
+} 
+
+nav p {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 80%;
+  margin-left: 40px;
+}
+
+#postdate {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 70%;
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: bold;
+  font-size: 200%;
+}
+
+#recipesteps {
+  text-indent: 20px;
+  margin-right: 200px;
+  padding: 60px;
+}
+
+.ingredients {
+  
+  
+}
+
+.strikethrough {
+  text-decoration: line-through;
+}
+
+figure {
+  float: left;
+  
+}
+
+h3  {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+#bioinfo {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+  font-weight: light;
+}
+
+footer {
+  border-top: 10px solid blue;
+  
+}
+
+#share{
+  padding: 20px;
+  background-color: #BC7058;
+  float: right;
+  margin-right: 200px;
+  font-size: 20px;
+}
+
+#base{
+  padding: 5px;
+  margin: 15px;
+  text-align: center;
+
 }
