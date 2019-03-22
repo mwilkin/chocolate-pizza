@@ -54,9 +54,9 @@ h1 {
   padding: 60px;
 }
 
-.ingredients {
-  
-  
+#ingredients {
+  background-image: url("../img/list-bg.png");
+  background-repeat: no-repeat;
 }
 
 .strikethrough {
@@ -82,7 +82,7 @@ h3  {
 
 footer {
   border-top: 10px solid blue;
-  
+  display: inline:
 }
 
 #share{
